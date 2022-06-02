@@ -1,13 +1,7 @@
 {
-  "name": "image-editor",
-  "version": "1.0.0",
-  "description": "",
-  "main": "app.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "devDependencies": {
+    "compress-images": "^2.0.5"
   },
-  "author": "",
-  "license": "ISC",
   "dependencies": {
     "sharp": "^0.30.6"
   }
